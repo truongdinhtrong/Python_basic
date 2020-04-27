@@ -77,13 +77,6 @@ locationZone = {
 }
 
 
-# 4. Bài tập về CLASS
-# - Tạo 2 class bao gồm class book, class location_zone
-# - Class Book là chứa tất cả function thao tác dành cho truy vấn về book
-# - Class Location Zone là chứa tất cả function thao tác về truy vấn về location_zone
-# - Tạo function main chính để chạy danh sách thao tác ở bài tập function
-
-
 class liet_ke_sach_tinh_thanh: 
     def ds_tinh_thanh(self):
         for key_zone in locationZone:
